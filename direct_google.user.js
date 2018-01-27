@@ -2,14 +2,12 @@
 // @name         Direct Google
 // @icon         https://www.google.com/images/branding/product/ico/googleg_lodp.ico
 // @namespace    http://userscripts.org/users/92143
-// @version      3.5
+// @version      3.6
 // @description  Removes Google redirects and exposes "Cached" links. 
 // @include      /^https?\:\/\/(www|news|maps|docs|cse|encrypted|mail)\.google\./
 // @author       zanetu
 // @contributor  Royalgamer06
-// @license      GPL version 2 or any later version; http://www.gnu.org/licenses/gpl-2.0.txt
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
-// @grant        GM_addStyle
 // @run-at       document-end
 // ==/UserScript==
 
